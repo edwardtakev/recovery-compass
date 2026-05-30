@@ -1,0 +1,15 @@
+{
+  "display": {
+    "title": "Recovery Compass",
+    "description": "Find your way back to where you died",
+    "icon": "recovery_compass",
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

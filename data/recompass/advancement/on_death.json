@@ -1,0 +1,16 @@
+{
+  "parent": "recompass:root",
+  "display": {
+    "title": "Death Tracker",
+    "description": "Tracks death location for recovery compass",
+    "icon": "recovery_compass",
+    "hidden": true,
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "dummy": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
